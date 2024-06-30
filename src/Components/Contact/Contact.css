@@ -5,6 +5,7 @@
     align-content: center;
     justify-content: space-between;
 }
+
 .contact-col{
     flex-basis: 48%;
     color: #676767;
